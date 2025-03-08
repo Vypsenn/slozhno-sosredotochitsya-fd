@@ -1,0 +1,1 @@
+git@github.com:Vypsenn/slozhno-sosredotochitsya-fd.git
